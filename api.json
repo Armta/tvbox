@@ -37,12 +37,20 @@
       "sourceUrl": "https://jihulab.com/yw88075/tvbox/-/raw/main/ywxl.json"
     },
     {
-      "sourceName": "✍️主力仓",
+      "sourceName": "PXY1仓",
       "sourceUrl": "https://agit.ai/gk0746/pxy/raw/branch/master/1仓.json"
     },
     {
-      "sourceName": "🍵备用仓",
+      "sourceName": "PXY2仓",
       "sourceUrl": "https://agit.ai/gk0746/pxy/raw/branch/master/2仓.json"
+    },
+    {
+      "sourceName": "PXY3仓",
+      "sourceUrl": "https://agit.ai/gk0746/pxy/raw/branch/master/3仓.json"
+    },
+    {
+      "sourceName": "PXY英雄仓",
+      "sourceUrl": "https://agit.ai/gk0746/pxy/raw/branch/master/英雄.json"
     },
     {
       "sourceName": "🕊备用仓",
