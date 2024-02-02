@@ -1,6 +1,14 @@
 {
   "urls": [
     {
+      "name": "无界",
+      "url": "https://w6566.github.io/tvlive/wj.json"
+    },
+    {
+      "name": "bluefriendCN",
+      "url": "https://raw.gitmirror.com/bluefriendCN/set/main/my.json"
+    },
+    {
       "name": "👿饭太硬",
       "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/fty.json"
     },
